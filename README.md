@@ -1,5 +1,5 @@
 # AlgoTri
 Différents algorithmes de tris et visualisation de ceux ci sur des exemples.
 
-cc tri.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o Tri Pour compiler
+cc tri.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o Tri Pour compiler \n
 ./Tri pour exécuter (Raylib requis)
